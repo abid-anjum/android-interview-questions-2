@@ -9,7 +9,7 @@
 
 > Android Interview Questions - Your Cheat Sheet For Android Interview
 
-## Prepared and maintained by [Amit Shekhar](https://github.com/amitshekhariitbhu) who is having experience of taking interviews of many Android developers and cracking interviews of top companies.
+## Prepared and maintained by [Abid Anjum](https://github.com/abid-anjum) who is having experience of taking interviews of many Android developers and cracking interviews of top companies.
 
 <p align="center">
 <a href="https://mindorks.com/android-app-development-online-course" target="_blank">
